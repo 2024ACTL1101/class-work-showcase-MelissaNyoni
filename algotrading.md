@@ -1,7 +1,7 @@
 ---
 title: "ACTL1101 Assignment Part A"
 author: "Melissa Nyoni"
-date: "2024 T2"
+date: "14 June 2024"
 output:
   pdf_document: default
   html_document:
